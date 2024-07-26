@@ -1,3 +1,3 @@
-It is a portfolio project with Covid-19 data since start to 2021
-I want to make to 2024 but i couldn't find that data
-In this project I want show you that I can write code in SQL and have got abilities to do something in Tableau.
+This is a portfolio project covering Covid-19 data from the start until 2021.
+I wanted to do it until 2024, but I can't find this data.
+In this project I want to show you that I can write code in SQL and I can create a visualization in Tableau.
